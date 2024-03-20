@@ -1,0 +1,191 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "img": "https://media.istockphoto.com/id/1206488555/photo/himalaya-mountains-panoramic-landscape-india.jpg?s=612x612&w=0&k=20&c=L08IPmjyspwPG-bsHQwT5FcUF0Q-Op9SIIK03vsPq5c=",
+      "HotelName": "Aquarius Venice",
+      "Address": "Mandi, Himachal Pradesh",
+      "Price": "1000 per night",
+      "Rating": 3,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 5
+    },
+    {
+      "id": "2",
+      "img": "https://media.istockphoto.com/id/1492952641/photo/marrakesh-morocco-interior-of-riad-hotel-in-the-medina.jpg?s=612x612&w=0&k=20&c=UEebD73ZAzHd1cH40eysyPO1S1hnI2zZorpN8pDskO8=",
+      "HotelName": "Palm Paradise",
+      "Address": "Ambagh, Jaipur, India",
+      "Price": "1500 per night",
+      "Rating": 4,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 2
+    },
+    {
+      "id": "3",
+      "img": "https://media.istockphoto.com/id/529236841/photo/facade-of-a-house.jpg?s=612x612&w=0&k=20&c=AyIaXt-Jr1YaE4a-iNRkygM4LWPeWkXTM08qZS0St9c=",
+      "HotelName": "Aqua Oasis",
+      "Address": "Ajabgarh, Rundh, Jaipur, India",
+      "Price": "1200 per night",
+      "Rating": 2,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 5
+    },
+    {
+      "id": "4",
+      "img": "https://media.istockphoto.com/id/530424718/photo/resort-architecture-in-egypt-hotel-and-palm-trees.jpg?s=612x612&w=0&k=20&c=ZKKDXxJxG3IO6bozTRh6qyEng7YdQNvYEp7hoZXZSvY=",
+      "HotelName": "Aether Haven",
+      "Address": "Oner Rd, Jaipur, India",
+      "Price": "1000 per night",
+      "Rating": 4,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 3
+    },
+    {
+      "id": "5",
+      "img": "https://media.istockphoto.com/id/1195273289/photo/al-balad-district-hedjazi-architecture-historic-jeddah-saudi-arabia-unesco-world-heritage-site.jpg?s=612x612&w=0&k=20&c=u6pA_40iERH4JyXkVUrJUMEfjDVk3bJf8utVeHhlbRs=",
+      "HotelName": "Amore Albergo",
+      "Address": "Jacob Rd, Civil, Jaipur, India",
+      "Price": "1400 per night",
+      "Rating": 2,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 9
+    },
+    {
+      "id": "6",
+      "img": "https://media.istockphoto.com/id/1491516437/photo/the-dalai-lama-temple-complex-thekchen-choeling-in-mcleodganj-dharamshala-himachal-pradesh.jpg?s=612x612&w=0&k=20&c=STxTohWLtr99kT7st_BxLglIh9C2g8QOF3JROP0VlMk=",
+      "HotelName": "Sunset Serenity",
+      "Address": "Jaipur, India",
+      "Price": "1000 per night",
+      "Rating": 3,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 6
+    },
+    {
+      "id": "7",
+      "img": "https://media.istockphoto.com/id/1666836016/photo/facade-of-hotel-sarovar-a-boutique-lake-facing-hotel-on-lake-pichola.jpg?s=612x612&w=0&k=20&c=dAhiaQarQ0V1v8XswWc5IKwTQmzlKyLZfqmEDv-voaQ=",
+      "HotelName": "The Enchanted Garden",
+      "Address": "RIICO Industrial Area, Riico, Jaipur, India",
+      "Price": "1100 per night",
+      "Rating": 2,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 2
+    },
+    {
+      "id": "8",
+      "img": "https://media.istockphoto.com/id/501668549/photo/kolonial-buildings.jpg?s=612x612&w=0&k=20&c=9RPGlCJeXifElSR8TK-N3Q8PxEuJUMVtm7KJlFAkzkk=",
+      "HotelName": "Mangrove Manor",
+      "Address": "Delhi - Jaipur Expy, Kunda, Pilli Ki Talai, Amer, India",
+      "Price": "900 per night",
+      "Rating": 3,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 8
+    },
+    {
+      "id": "9",
+      "img": "https://media.istockphoto.com/id/1333765500/photo/majorelle-garden.jpg?s=612x612&w=0&k=20&c=R_3NHjolB1bGxIUD7ujhRFsZOe1rjdvu1avJc2uWWnc=",
+      "HotelName": "Quirk Hotel",
+      "Address": "RIICO Industrial Area, Riico, Jaipur, India",
+      "Price": "1500 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 6
+    },
+    {
+      "id": "10",
+      "img": "https://media.istockphoto.com/id/182682269/photo/vacation.jpg?s=612x612&w=0&k=20&c=g1a6KvxiW-HOg_VSPA4WiFhYK1rFB0svL3Ci9jjrU7Q=",
+      "HotelName": "Butterscotch Hotel",
+      "Address": "Delhi - Jaipur Expy, Kunda, Pilli Ki Talai, Amer, India",
+      "Price": "1550 per night",
+      "Rating": 4,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 10
+    },
+    {
+      "id": "11",
+      "img": "https://media.istockphoto.com/id/637070768/photo/moroccan-architecture.jpg?s=612x612&w=0&k=20&c=lgve1_eByYwCzqxqGc7TT_A-mQbHlhXWoYCWom-xzaw=",
+      "HotelName": "Meadow suites",
+      "Address": "Jorawar Singh Gate, Gangapole Road Near, Gangapole, Jaipur, India",
+      "Price": "1000 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 4
+    },
+    {
+      "id": "12",
+      "img": "https://media.istockphoto.com/id/1333765500/photo/majorelle-garden.jpg?s=612x612&w=0&k=20&c=R_3NHjolB1bGxIUD7ujhRFsZOe1rjdvu1avJc2uWWnc=",
+      "HotelName": "Montana Blues Resort",
+      "Address": "Prini, Manali, Himachal Pradesh 175103, 175103 Manāli,",
+      "Price": "1500 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 6
+    },
+    {
+      "id": "13",
+      "img": "https://media.istockphoto.com/id/182682269/photo/vacation.jpg?s=612x612&w=0&k=20&c=g1a6KvxiW-HOg_VSPA4WiFhYK1rFB0svL3Ci9jjrU7Q=",
+      "HotelName": "The Four Season Riverview Hotel",
+      "Address": "Hanu bridge, manali, Himachal Pradesh,",
+      "Price": "1550 per night",
+      "Rating": 4,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 10
+    },
+    {
+      "id": "14",
+      "img": "https://media.istockphoto.com/id/637070768/photo/moroccan-architecture.jpg?s=612x612&w=0&k=20&c=lgve1_eByYwCzqxqGc7TT_A-mQbHlhXWoYCWom-xzaw=",
+      "HotelName": "Meadow suites",
+      "Address": "Jorawar Singh Gate, Gangapole Road Near, Gangapole, Jaipur, India",
+      "Price": "1000 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 6
+    },
+    {
+      "id": "15",
+      "img": "https://media.istockphoto.com/id/1333765500/photo/majorelle-garden.jpg?s=612x612&w=0&k=20&c=R_3NHjolB1bGxIUD7ujhRFsZOe1rjdvu1avJc2uWWnc=",
+      "HotelName": "Quirk Hotel",
+      "Address": "RIICO Industrial Area, Riico, Jaipur, India",
+      "Price": "1500 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 9
+    },
+    {
+      "id": "16",
+      "img": "https://media.istockphoto.com/id/182682269/photo/vacation.jpg?s=612x612&w=0&k=20&c=g1a6KvxiW-HOg_VSPA4WiFhYK1rFB0svL3Ci9jjrU7Q=",
+      "HotelName": "Butterscotch Hotel",
+      "Address": "Delhi - Jaipur Expy, Kunda, Pilli Ki Talai, Amer, India",
+      "Price": "1550 per night",
+      "Rating": 4,
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Availability": 7
+    },
+    {
+      "id": "17",
+      "img": "https://media.istockphoto.com/id/637070768/photo/moroccan-architecture.jpg?s=612x612&w=0&k=20&c=lgve1_eByYwCzqxqGc7TT_A-mQbHlhXWoYCWom-xzaw=",
+      "HotelName": "Meadow suites",
+      "Address": "Jorawar Singh Gate, Gangapole Road Near, Gangapole, Jaipur, India",
+      "Price": "1000 per night",
+      "text": "Free cancellation",
+      "para": "No prepayment needed – pay at the property",
+      "Rating": 2,
+      "Availability": 10
+    }
+  ]
+}

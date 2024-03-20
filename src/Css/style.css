@@ -1,0 +1,55 @@
+.box {
+    display: flex;
+    justify-content: space-around;
+    max-width: 550px;
+}
+
+.calenderBox {
+    background-color: antiquewhite;
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin: 20px;
+
+}
+#cardCenter{
+    /* border: 1px solid black; */
+   width: 450px;
+  
+}
+.cardContainer{
+    display: block;
+    margin: auto;
+   
+}
+
+.input {
+    background-color: rgb(236, 239, 244);
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;  
+    margin-top: 25px;
+  
+}
+.link{
+    text-decoration: none;
+  
+}
+
+@media only screen and (min-width: 760px) {
+    .cardContainer{
+        display: flex;
+        gap: 20px;
+        margin: 20px;
+       
+    }
+    .input{
+        flex-wrap: wrap;
+        width: 500px;   
+    }
+  
+   
+
+
+}
